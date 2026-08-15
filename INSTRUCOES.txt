@@ -1,0 +1,20 @@
+﻿BACKUP DA GALERIA ANDROID
+=========================
+
+1. No celular, ative Opções do desenvolvedor e Depuração USB.
+2. Conecte o celular ao computador com um cabo USB de dados.
+3. Dê dois cliques em "Abrir Backup da Galeria.cmd".
+4. Clique em "Verificar conexão".
+5. No celular, aceite a autorização deste computador.
+6. Escolha a pasta de destino e clique em "Iniciar backup".
+
+As fotos e vídeos serão organizados em pastas ANO\MÊS. O aplicativo nunca
+apaga arquivos do celular. Se a transferência parar, abra novamente e repita:
+arquivos já concluídos serão ignorados.
+
+Mantenha o celular desbloqueado e carregando durante um backup grande.
+Não apague as fotos do aparelho antes de abrir e conferir uma amostra no PC.
+
+Se o Windows mostrar uma pergunta de segurança na primeira abertura, confirme
+que deseja executar. O programa funciona localmente e não envia fotos à internet.
+

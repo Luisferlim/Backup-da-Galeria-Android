@@ -1,0 +1,15 @@
+# Arquivos produzidos pelo backup
+.backup-celular.json
+.transferindo/
+ultimo-relatorio.json
+
+# Estados temporários
+backup-galeria-*.json*
+*.cancel
+*.state
+
+# Windows e editores
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
